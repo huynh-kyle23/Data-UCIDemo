@@ -14,6 +14,11 @@ and scroll down a little. There you should see a box that says "Start a new repo
 Be sure to name the repository and set it to public or private depending on what you want and click the
 "Create a new repository button."
 
+## Cloning a repository
+If you want to clone a repository click the green code button in the top right and copy the link
+In your terminal, type git clone and the link that you copied and you should have a local copy of the
+repository
+
 ## Pushing our first commit
 Once you hit the "Create a new repository button." You will prompted with a list of commands.
 For now, we will use the set of commands that are under the "…or create a new repository on the command line."
