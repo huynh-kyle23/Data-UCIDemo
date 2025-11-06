@@ -54,4 +54,6 @@ the command should bring you to a vim editor to write your commit message. Simpl
 and when finished writing your message click the esc key and shift+zz to exit. Once, call git push to push the revert
 and you have made your first revision. 
 
+
+I am very cool - Zeeshan
 THis is andrew
