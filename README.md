@@ -53,3 +53,6 @@ seed (it should be in yellow text where it says "commit [seed]." Once copied, we
 the command should bring you to a vim editor to write your commit message. Simply press i to go into insert mode
 and when finished writing your message click the esc key and shift+zz to exit. Once, call git push to push the revert
 and you have made your first revision. 
+
+
+I am very cool - Zeeshan
